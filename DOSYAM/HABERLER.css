@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar .haber .baş {
+    background-color: red;
+    width: 230px;
+    height: 32px;
+    text-decoration: none;
+    padding-top: 10px;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+
+.yan li {
+    display: inline-block;
+    margin-right: 10px;
+}
